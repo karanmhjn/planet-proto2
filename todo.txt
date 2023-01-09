@@ -1,0 +1,6 @@
+1. Add to the thruster.cs file.
+  Make the character more controlable
+  Add a fuel mechanism, with the mass of the player dependent upon amount of fuel left.
+  Add dash
+2. Add a sky box and a mechanism so that the player does not go out of bounds
+3. Add provision to make planetary systems -Karan
